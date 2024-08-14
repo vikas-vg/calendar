@@ -4,7 +4,7 @@
 {
     "name": "Web Schedule",
     "version": "15.0.1.0.0",
-    "authon": "Vikas Goyal",
+    "author": "Vikas Goyal",
     "category": "web",
     "license": "AGPL-3",
     "depends": ["web", "calendar", "hr"],
